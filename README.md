@@ -10,6 +10,6 @@ HR Horizon is a full-featured Human Resource Management System (HRMS) designed t
 - **User Roles**: Different roles like Admin, HR Admin, and Employee with varied permissions.
 
 ## Live Demo
-You can see the project in action by visiting the live demo here: [HRMS Frontend Live Demo](https://hrms-frontend-fbwc.onrender.com)
+You can see the project in action by visiting the live demo here: [HRMS Live Demo](https://hrms-frontend-fbwc.onrender.com)
 
 Explore the features and functionality of the project by accessing the live version.
